@@ -30,7 +30,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ```bash
-cd react-mat-table-crud
+git clone https://github.com/NikkiKumari/Product-curd-assinment.git
+cd product-curd-target-assignment-nikki
 npm install
 npm start
 ```
